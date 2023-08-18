@@ -1,5 +1,4 @@
 
-
 ```markdown
 #!/bin/bash
 
@@ -61,8 +60,8 @@ chmod +x calculator.sh
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-**Author:** Ractor
-**Created:** 08-July-2023
-**Last Modified:** 08-July-2023
+```
+Author: Ractor
+Created: 08-July-2023
+Last Modified: 08-July-2023
 ```
