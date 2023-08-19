@@ -20,15 +20,17 @@ Each problem set directory contains a set of challenges and exercises related to
 
 To get started with the problem sets:
 
+```
 1. Clone this repository to your local machine:
 
-```bash
+```
 git clone https://github.com/Ractorrr/Bash_Mastery.git
 ```
 
+
 2. Navigate to the desired problem set directory:
 
-```bash
+```
 cd Calculator.sh
 ```
 
