@@ -3,7 +3,7 @@
 # Timer Countdown Script
 
 ![GitHub](https://github.com/Ractorrr/Bash_Mastery/tree/503286c1115eff43e80f7faa6aaeb1d1c21fe420/Timer.sh)
-![GitHub last commit]()
+![GitHub last commit](https://github.com/Ractorrr/Bash_Mastery/blob/main/Timer.sh/Readme.md)
 
 A countdown timer script written in Bash that demonstrates the usage of `getopts` and a `while` loop.
 
@@ -20,10 +20,12 @@ To use the timer script:
 3. Navigate to the directory containing the `timer.sh` script.
 4. Run the script using the following command:
 
+```
+
+
 ```bash
 ./timer.sh -m minutes -s seconds
 ```
-
 Replace `minutes` with the desired number of minutes and `seconds` with the desired number of seconds for the timer.
 
 ## Screenshots and Screen Recording
@@ -66,6 +68,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-**Author:** Your Name
-**Created:** 08-July-2023
-**Last Modified:** 08-July-2023
+
+```
+Author: Ractor
+Created: 08-July-2023
+Last Modified: 08-July-2023
