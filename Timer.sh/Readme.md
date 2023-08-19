@@ -2,9 +2,6 @@
 ```markdown
 # Timer Countdown Script
 
-![GitHub](https://github.com/Ractorrr/Bash_Mastery/tree/503286c1115eff43e80f7faa6aaeb1d1c21fe420/Timer.sh)
-![GitHub last commit](https://github.com/Ractorrr/Bash_Mastery/blob/main/Timer.sh/Readme.md)
-
 A countdown timer script written in Bash that demonstrates the usage of `getopts` and a `while` loop.
 
 ## Description
