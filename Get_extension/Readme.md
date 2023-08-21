@@ -58,4 +58,17 @@ done
 # Now save the details into a CSV Excel File.
 echo "Firstname,Lastname,Extension,Access,PhoneType,Department" > extension.csv
 echo "$name,$sname,$exnum,$anum,$phone,$dep" >> extension.csv
+```
+---
+Note by Author:
+Feel free to edit and make your own variations of this script. Your contributions and suggestions are welcome! Let's continue to learn and improve together.
 
+```bash
+# echo "Thank YOU ❤"
+Your engagement can make the script more efficient and beautiful. Thank you for your interest!
+```
+
+```
+Author: Ractor
+Created: 08-July-2023
+Last Modified: 08-July-2023
