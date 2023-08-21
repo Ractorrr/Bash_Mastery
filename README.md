@@ -13,6 +13,8 @@ The Bash Course by Ziyad Yehia covers various aspects of Bash scripting, from th
 Below is a list of the available problem sets in this repository:
 
 1. [Problem Set 1: Introduction to Positional Parameter OR Calculator.sh](https://github.com/Ractorrr/Bash_Mastery/tree/main/Calculator.sh)
+2. [Problem Set 2: Introduction to Select Command or get_extension.sh](https://github.com/Ractorrr/Bash_Mastery/tree/main/Get_extension)
+3. [Problem Set 3: Introduction to While Loop or timer.sh](https://github.com/Ractorrr/Bash_Mastery/tree/main/Timer.sh)
 
 Each problem set directory contains a set of challenges and exercises related to the respective topic. Feel free to explore, attempt the challenges, and learn from the provided solutions.
 
