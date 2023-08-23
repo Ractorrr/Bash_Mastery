@@ -10,7 +10,8 @@
 # Usage:
 # Calculator.sh
 
-
+# Usually IFS is set " " (void) that tells the shell that consider " " as a seprator or i say word splitter so in this case we used $1 it means any argument after command we be used as a word splitter.
+# That means when you type in command something this--
 IFS=$1;
 
 echo $(( "$*" ))
