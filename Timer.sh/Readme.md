@@ -1,5 +1,4 @@
-
-```markdown
+ 
 # Timer Countdown Script
 
 A countdown timer script written in Bash that demonstrates the usage of `getopts` and a `while` loop.
@@ -16,9 +15,7 @@ To use the timer script:
 2. Open your terminal.
 3. Navigate to the directory containing the `timer.sh` script.
 4. Run the script using the following command:
-
-```
-
+ 
 
 ```bash
 ./timer.sh -m minutes -s seconds
