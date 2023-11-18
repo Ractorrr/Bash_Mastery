@@ -1,5 +1,4 @@
-
-```markdown
+ 
 # Bash Course Problem Sets
 
 Welcome to the Bash Course Problem Sets repository! This repository contains a collection of problem sets designed for the Bash course taught by Ziyad Yehia. These problem sets are intended to help you practice and reinforce your Bash scripting skills.
@@ -22,19 +21,17 @@ Each problem set directory contains a set of challenges and exercises related to
 
 To get started with the problem sets:
 
-```
 1. Clone this repository to your local machine:
 
-```
-git clone https://github.com/Ractorrr/Bash_Mastery.git
-```
-
+   ```bash
+   git clone https://github.com/Ractorrr/Bash_Mastery.git
+   ```
 
 2. Navigate to the desired problem set directory:
 
-```
-cd Calculator.sh
-```
+   ```bash
+   cd Calculator.sh
+   ```
 
 3. Read the instructions and complete the challenges in the problem set.
 
@@ -57,3 +54,6 @@ This repository is maintained by [Ractor](https://github.com/ractorrr).
 - **Course Name:** Bash Mastery Course by Ziyad Yehia
 - **Instructor:** Ziyad Yehia
 - **Website:** [Course Website](https://www.udemy.com/course/bash-mastery/)
+ 
+
+ 
