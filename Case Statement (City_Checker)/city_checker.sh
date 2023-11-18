@@ -1,5 +1,15 @@
 #!/bin/bash
 
+# Author: Ractor
+# Created: 16-July-23
+# Last Modified: 18-Nov-23
+
+# Description:
+#  
+
+# Usage:
+#  
+
 # Set the prompt string for the select command
 PS3="Which Country Do You Want to Know About? "
 
