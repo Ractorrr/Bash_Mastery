@@ -40,4 +40,4 @@ The script performs the following tasks:
 
 This script is designed for educational purposes. It demonstrates the usage of the 'if-else' command in Bash scripting. Feel free to explore, modify, and use this script as a learning resource for Bash scripting.
 
-**Happy coding!**
+**Happy Hacking!**
