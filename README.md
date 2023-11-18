@@ -10,10 +10,17 @@ The Bash Course by Ziyad Yehia covers various aspects of Bash scripting, from th
 ## Problem Sets
 
 Below is a list of the available problem sets in this repository:
+ 
 
-1. [Problem Set 1: Introduction to Positional Parameter OR Calculator.sh](https://github.com/Ractorrr/Bash_Mastery/tree/main/Calculator.sh)
-2. [Problem Set 2: Introduction to Select Command or get_extension.sh](https://github.com/Ractorrr/Bash_Mastery/tree/main/Get_extension)
-3. [Problem Set 3: Introduction to While Loop or timer.sh](https://github.com/Ractorrr/Bash_Mastery/tree/main/Timer.sh)
+1. [Positional Parameter (Calculator)](https://github.com/Ractorrr/Bash_Mastery/tree/main/Positional%20Parameter%20(Calculator))
+2. [Select Command (Get_extension)](https://github.com/Ractorrr/Bash_Mastery/tree/main/Select%20Command%20(Get_extension))
+3. [While Loop (Timer)](https://github.com/Ractorrr/Bash_Mastery/tree/main/While%20Loop%20(Timer))
+4. [Case Statement (City_Checker)](https://github.com/Ractorrr/Bash_Mastery/tree/main/Case%20Statement%20(City_Checker))
+5. [IF Statement (File Checker)](https://github.com/Ractorrr/Bash_Mastery/tree/main/IF%20Statement%20(File%20Checker))
+6. [If Else Statement (Memory Logger)](https://github.com/Ractorrr/Bash_Mastery/tree/main/If%20Else%20Statement%20(Memory%20Logger))
+7. [Read Statement (Welcome Words)](https://github.com/Ractorrr/Bash_Mastery/tree/main/Read%20Statement%20(Welcome%20Words))
+
+  
 
 Each problem set directory contains a set of challenges and exercises related to the respective topic. Feel free to explore, attempt the challenges, and learn from the provided solutions.
 
