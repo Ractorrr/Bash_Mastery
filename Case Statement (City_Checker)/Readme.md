@@ -3,17 +3,15 @@
 
 ## Overview
 
-This Bash script allows the user to select a city from a predefined list and provides information about the selected city, including its country.
+This Bash script, authored by Ractor, presents a simple interactive menu using the `select` command. It provides a list of cities for the user to choose from, and based on the user's selection, it displays information about the chosen city. The script uses a `case` statement to handle different city selections and provides relevant details.
 
 ## Script Usage
 
-To use the script, run the following command:
+To use the script, execute it in a Bash environment. The user will be prompted to choose a city from the list. After making a selection, the script will display information about the chosen city.
 
 ```bash
 ./CityInfoSelector.sh
 ```
-
-Follow the on-screen prompts to choose a city from the provided list.
 
 ## Description
 
@@ -50,7 +48,8 @@ The script utilizes the `select` command to present the user with a list of citi
 ## Author
 
 - **Author:** Ractor
-- **Created:** 18-Nov-23
+- **Created:** 16-July-23
+- **Last Modified:** 18-Nov-23
 
 ## Disclaimer
 
