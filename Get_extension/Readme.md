@@ -1,5 +1,4 @@
-
-```markdown
+ 
 # Employee Information Logging Script
 
 Author: Ractor
