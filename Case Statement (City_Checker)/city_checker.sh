@@ -5,10 +5,15 @@
 # Last Modified: 18-Nov-23
 
 # Description:
-#  
+# This Bash script presents a simple interactive menu using the select command.
+# It provides a list of cities for the user to choose from, and based on the user's selection,
+# it displays information about the chosen city. The script uses a case statement to handle
+# different city selections and provides relevant details.
 
 # Usage:
-#  
+# Execute this script in a Bash environment.
+# The user will be prompted to choose a city from the list.
+# After making a selection, the script will display information about the chosen city.
 
 # Set the prompt string for the select command
 PS3="Which Country Do You Want to Know About? "
@@ -34,7 +39,7 @@ do
         Milan) echo "You selected $city, which is in Italy";;
         Nairobi) echo "You selected $city, which is in Kenya";;
         Berlin) echo "You selected $city, which is in Germany";;
-        Karachi) echo " You selected $city, which is in Pakistan";;
+        Karachi) echo "You selected $city, which is in Pakistan";;
     esac
 
     # Print a separator for better readability
@@ -43,3 +48,4 @@ do
     # Exit the loop after processing the user's selection
     break
 done
+
