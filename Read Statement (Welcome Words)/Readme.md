@@ -48,4 +48,4 @@ This script is designed for educational purposes. The display of passwords in th
 
 Feel free to explore, modify, and use this script as a learning resource for Bash scripting.
 
-**Happy coding!**
+**Happy Hacking!**
